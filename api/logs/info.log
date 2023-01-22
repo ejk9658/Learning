@@ -1,0 +1,385 @@
+[2023-01-22 17:46:16.602] [INFO ] [restartedMain] com.springboot.api.ApiApplication Starting ApiApplication using Java 17.0.5 with PID 6656 (C:\Workspace\api\out\production\classes started by SSAFY in C:\Workspace\api)
+[2023-01-22 17:46:16.607] [INFO ] [restartedMain] com.springboot.api.ApiApplication No active profile set, falling back to 1 default profile: "default"
+[2023-01-22 17:46:16.709] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-01-22 17:46:16.710] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-01-22 17:46:18.265] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 9080 (http)
+[2023-01-22 17:46:18.278] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-9080"]
+[2023-01-22 17:46:18.279] [INFO ] [restartedMain] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2023-01-22 17:46:18.280] [INFO ] [restartedMain] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/10.1.5]
+[2023-01-22 17:46:18.406] [INFO ] [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2023-01-22 17:46:18.407] [INFO ] [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1694 ms
+[2023-01-22 17:46:18.909] [INFO ] [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+[2023-01-22 17:46:18.924] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-9080"]
+[2023-01-22 17:46:18.963] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 9080 (http) with context path ''
+[2023-01-22 17:46:18.978] [INFO ] [restartedMain] com.springboot.api.ApiApplication Started ApiApplication in 3.337 seconds (process running for 4.404)
+[2023-01-22 17:46:47.036] [INFO ] [http-nio-9080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-01-22 17:46:47.036] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+[2023-01-22 17:46:47.039] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Completed initialization in 3 ms
+[2023-01-22 17:46:47.078] [INFO ] [http-nio-9080-exec-1] com.springboot.api.controller.GetController getHello 메서드가 호출되었습니다.
+[2023-01-22 17:48:04.958] [INFO ] [restartedMain] com.springboot.api.ApiApplication Starting ApiApplication using Java 17.0.5 with PID 11260 (C:\Workspace\api\out\production\classes started by SSAFY in C:\Workspace\api)
+[2023-01-22 17:48:04.963] [INFO ] [restartedMain] com.springboot.api.ApiApplication No active profile set, falling back to 1 default profile: "default"
+[2023-01-22 17:48:05.057] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-01-22 17:48:05.057] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-01-22 17:48:06.512] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 9080 (http)
+[2023-01-22 17:48:06.525] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-9080"]
+[2023-01-22 17:48:06.526] [INFO ] [restartedMain] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2023-01-22 17:48:06.527] [INFO ] [restartedMain] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/10.1.5]
+[2023-01-22 17:48:06.629] [INFO ] [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2023-01-22 17:48:06.630] [INFO ] [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1572 ms
+[2023-01-22 17:48:07.139] [INFO ] [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+[2023-01-22 17:48:07.155] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-9080"]
+[2023-01-22 17:48:07.180] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 9080 (http) with context path ''
+[2023-01-22 17:48:07.191] [INFO ] [restartedMain] com.springboot.api.ApiApplication Started ApiApplication in 3.272 seconds (process running for 4.583)
+[2023-01-22 17:48:11.050] [INFO ] [http-nio-9080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-01-22 17:48:11.050] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+[2023-01-22 17:48:11.053] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+[2023-01-22 17:48:11.138] [WARN ] [http-nio-9080-exec-1] org.springframework.core.LocalVariableTableParameterNameDiscoverer Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: com.springboot.api.controller.GetController
+[2023-01-22 17:48:11.152] [INFO ] [http-nio-9080-exec-1] com.springboot.api.controller.GetController @PathVariable을 통해 들어온 값 : test
+[2023-01-22 18:21:43.091] [INFO ] [restartedMain] com.springboot.api.ApiApplication Starting ApiApplication using Java 17.0.5 with PID 3584 (C:\Workspace\api\out\production\classes started by SSAFY in C:\Workspace\api)
+[2023-01-22 18:21:43.099] [INFO ] [restartedMain] com.springboot.api.ApiApplication No active profile set, falling back to 1 default profile: "default"
+[2023-01-22 18:21:43.218] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-01-22 18:21:43.219] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-01-22 18:21:44.694] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 9080 (http)
+[2023-01-22 18:21:44.708] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-9080"]
+[2023-01-22 18:21:44.709] [INFO ] [restartedMain] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2023-01-22 18:21:44.710] [INFO ] [restartedMain] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/10.1.5]
+[2023-01-22 18:21:44.821] [INFO ] [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2023-01-22 18:21:44.821] [INFO ] [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1602 ms
+[2023-01-22 18:21:45.340] [INFO ] [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+[2023-01-22 18:21:45.357] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-9080"]
+[2023-01-22 18:21:45.383] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 9080 (http) with context path ''
+[2023-01-22 18:21:45.393] [INFO ] [restartedMain] com.springboot.api.ApiApplication Started ApiApplication in 3.251 seconds (process running for 4.51)
+[2023-01-22 18:22:01.943] [INFO ] [http-nio-9080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-01-22 18:22:01.944] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+[2023-01-22 18:22:01.947] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Completed initialization in 3 ms
+[2023-01-22 18:23:20.589] [INFO ] [restartedMain] com.springboot.api.ApiApplication Starting ApiApplication using Java 17.0.5 with PID 5616 (C:\Workspace\api\out\production\classes started by SSAFY in C:\Workspace\api)
+[2023-01-22 18:23:20.594] [INFO ] [restartedMain] com.springboot.api.ApiApplication No active profile set, falling back to 1 default profile: "default"
+[2023-01-22 18:23:20.695] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-01-22 18:23:20.695] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-01-22 18:23:22.079] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 9080 (http)
+[2023-01-22 18:23:22.092] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-9080"]
+[2023-01-22 18:23:22.093] [INFO ] [restartedMain] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2023-01-22 18:23:22.093] [INFO ] [restartedMain] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/10.1.5]
+[2023-01-22 18:23:22.192] [INFO ] [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2023-01-22 18:23:22.193] [INFO ] [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1497 ms
+[2023-01-22 18:23:22.680] [INFO ] [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+[2023-01-22 18:23:22.699] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-9080"]
+[2023-01-22 18:23:22.725] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 9080 (http) with context path ''
+[2023-01-22 18:23:22.736] [INFO ] [restartedMain] com.springboot.api.ApiApplication Started ApiApplication in 3.167 seconds (process running for 4.353)
+[2023-01-22 18:23:25.970] [INFO ] [http-nio-9080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-01-22 18:23:25.971] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+[2023-01-22 18:23:25.973] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Completed initialization in 2 ms
+[2023-01-22 18:32:47.494] [INFO ] [restartedMain] com.springboot.api.ApiApplication Starting ApiApplication using Java 17.0.5 with PID 5468 (C:\Workspace\api\out\production\classes started by SSAFY in C:\Workspace\api)
+[2023-01-22 18:32:47.501] [INFO ] [restartedMain] com.springboot.api.ApiApplication No active profile set, falling back to 1 default profile: "default"
+[2023-01-22 18:32:47.626] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-01-22 18:32:47.626] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-01-22 18:32:49.463] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 9080 (http)
+[2023-01-22 18:32:49.484] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-9080"]
+[2023-01-22 18:32:49.484] [INFO ] [restartedMain] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2023-01-22 18:32:49.486] [INFO ] [restartedMain] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/10.1.5]
+[2023-01-22 18:32:49.664] [INFO ] [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2023-01-22 18:32:49.665] [INFO ] [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 2037 ms
+[2023-01-22 18:32:50.188] [INFO ] [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+[2023-01-22 18:32:50.218] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-9080"]
+[2023-01-22 18:32:50.254] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 9080 (http) with context path ''
+[2023-01-22 18:32:50.268] [INFO ] [restartedMain] com.springboot.api.ApiApplication Started ApiApplication in 4.025 seconds (process running for 5.628)
+[2023-01-22 18:32:56.102] [INFO ] [http-nio-9080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-01-22 18:32:56.103] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+[2023-01-22 18:32:56.105] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+[2023-01-22 18:32:56.143] [WARN ] [http-nio-9080-exec-1] org.springframework.web.servlet.PageNotFound No mapping for GET /swagger-ui.html
+[2023-01-22 18:32:57.139] [WARN ] [http-nio-9080-exec-2] org.springframework.web.servlet.PageNotFound No mapping for GET /swagger-ui.html
+[2023-01-22 18:39:43.608] [INFO ] [restartedMain] com.springboot.api.ApiApplication Starting ApiApplication using Java 17.0.5 with PID 10252 (C:\Workspace\api\out\production\classes started by SSAFY in C:\Workspace\api)
+[2023-01-22 18:39:43.612] [INFO ] [restartedMain] com.springboot.api.ApiApplication No active profile set, falling back to 1 default profile: "default"
+[2023-01-22 18:39:43.750] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-01-22 18:39:43.751] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-01-22 18:39:45.451] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 9080 (http)
+[2023-01-22 18:39:45.464] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-9080"]
+[2023-01-22 18:39:45.465] [INFO ] [restartedMain] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2023-01-22 18:39:45.465] [INFO ] [restartedMain] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/10.1.5]
+[2023-01-22 18:39:45.566] [INFO ] [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2023-01-22 18:39:45.566] [INFO ] [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1813 ms
+[2023-01-22 18:39:46.073] [INFO ] [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+[2023-01-22 18:39:46.090] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-9080"]
+[2023-01-22 18:39:46.116] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 9080 (http) with context path ''
+[2023-01-22 18:39:46.126] [INFO ] [restartedMain] com.springboot.api.ApiApplication Started ApiApplication in 3.541 seconds (process running for 4.972)
+[2023-01-22 18:39:51.980] [INFO ] [http-nio-9080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-01-22 18:39:51.982] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+[2023-01-22 18:39:51.984] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Completed initialization in 2 ms
+[2023-01-22 18:39:52.049] [WARN ] [http-nio-9080-exec-1] org.springframework.web.servlet.PageNotFound No mapping for GET /swagger-ui.html
+[2023-01-22 18:39:54.307] [WARN ] [http-nio-9080-exec-2] org.springframework.web.servlet.PageNotFound No mapping for GET /swagger-ui.html
+[2023-01-22 18:41:49.492] [WARN ] [http-nio-9080-exec-5] org.springframework.web.servlet.PageNotFound No mapping for GET /swagger-ui/index.html
+[2023-01-22 18:41:50.251] [WARN ] [http-nio-9080-exec-6] org.springframework.web.servlet.PageNotFound No mapping for GET /swagger-ui/index.html
+[2023-01-22 18:41:50.832] [WARN ] [http-nio-9080-exec-7] org.springframework.web.servlet.PageNotFound No mapping for GET /swagger-ui/index.html
+[2023-01-22 18:41:53.355] [WARN ] [http-nio-9080-exec-8] org.springframework.web.servlet.PageNotFound No mapping for GET /swagger-ui/index.html
+[2023-01-22 18:45:51.713] [INFO ] [restartedMain] com.springboot.api.ApiApplication Starting ApiApplication using Java 17.0.5 with PID 12720 (C:\Workspace\api\out\production\classes started by SSAFY in C:\Workspace\api)
+[2023-01-22 18:45:51.716] [INFO ] [restartedMain] com.springboot.api.ApiApplication No active profile set, falling back to 1 default profile: "default"
+[2023-01-22 18:45:51.784] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-01-22 18:45:51.785] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-01-22 18:45:52.465] [ERROR] [restartedMain] org.springframework.boot.SpringApplication Application run failed
+java.lang.TypeNotPresentException: Type javax.servlet.http.HttpServletRequest not present
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:117)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:125)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.generics.visitor.Reifier.reifyTypeArguments(Reifier.java:68)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:138)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.generics.repository.ClassRepository.computeSuperInterfaces(ClassRepository.java:117)
+	at java.base/sun.reflect.generics.repository.ClassRepository.getSuperInterfaces(ClassRepository.java:95)
+	at java.base/java.lang.Class.getGenericInterfaces(Class.java:1211)
+	at org.springframework.core.ResolvableType.getInterfaces(ResolvableType.java:500)
+	at org.springframework.core.ResolvableType.as(ResolvableType.java:448)
+	at org.springframework.core.ResolvableType.forClass(ResolvableType.java:1048)
+	at org.springframework.plugin.core.config.PluginRegistriesBeanDefinitionRegistrar.getTargetType(PluginRegistriesBeanDefinitionRegistrar.java:101)
+	at org.springframework.plugin.core.config.PluginRegistriesBeanDefinitionRegistrar.registerBeanDefinitions(PluginRegistriesBeanDefinitionRegistrar.java:71)
+	at org.springframework.context.annotation.ImportBeanDefinitionRegistrar.registerBeanDefinitions(ImportBeanDefinitionRegistrar.java:86)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.lambda$loadBeanDefinitionsFromRegistrars$1(ConfigurationClassBeanDefinitionReader.java:373)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsFromRegistrars(ConfigurationClassBeanDefinitionReader.java:372)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForConfigurationClass(ConfigurationClassBeanDefinitionReader.java:148)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitions(ConfigurationClassBeanDefinitionReader.java:120)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:410)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:283)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:344)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:115)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:745)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:565)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291)
+	at com.springboot.api.ApiApplication.main(ApiApplication.java:10)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.ClassNotFoundException: javax.servlet.http.HttpServletRequest
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:114)
+	... 37 common frames omitted
+[2023-01-22 18:46:13.425] [INFO ] [restartedMain] com.springboot.api.ApiApplication Starting ApiApplication using Java 17.0.5 with PID 14928 (C:\Workspace\api\out\production\classes started by SSAFY in C:\Workspace\api)
+[2023-01-22 18:46:13.429] [INFO ] [restartedMain] com.springboot.api.ApiApplication No active profile set, falling back to 1 default profile: "default"
+[2023-01-22 18:46:13.489] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-01-22 18:46:13.489] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-01-22 18:46:14.557] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 9080 (http)
+[2023-01-22 18:46:14.567] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-9080"]
+[2023-01-22 18:46:14.567] [INFO ] [restartedMain] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2023-01-22 18:46:14.567] [INFO ] [restartedMain] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/10.1.5]
+[2023-01-22 18:46:14.636] [INFO ] [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2023-01-22 18:46:14.636] [INFO ] [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1146 ms
+[2023-01-22 18:46:14.954] [INFO ] [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+[2023-01-22 18:46:14.968] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-9080"]
+[2023-01-22 18:46:14.988] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 9080 (http) with context path ''
+[2023-01-22 18:46:14.998] [INFO ] [restartedMain] com.springboot.api.ApiApplication Started ApiApplication in 2.126 seconds (process running for 2.803)
+[2023-01-22 18:46:20.637] [INFO ] [http-nio-9080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-01-22 18:46:20.637] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+[2023-01-22 18:46:20.639] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+[2023-01-22 18:46:20.658] [WARN ] [http-nio-9080-exec-1] org.springframework.web.servlet.PageNotFound No mapping for GET /swagger-ui.html
+[2023-01-22 18:46:23.493] [WARN ] [http-nio-9080-exec-2] org.springframework.web.servlet.PageNotFound No mapping for GET /swagger-ui/index.html
+[2023-01-22 18:46:26.095] [WARN ] [http-nio-9080-exec-3] org.springframework.web.servlet.PageNotFound No mapping for GET /swagger-ui.html
+[2023-01-22 19:21:23.333] [INFO ] [restartedMain] com.springboot.api.ApiApplication Starting ApiApplication using Java 17.0.5 with PID 11432 (C:\Workspace\api\out\production\classes started by SSAFY in C:\Workspace\api)
+[2023-01-22 19:21:23.338] [INFO ] [restartedMain] com.springboot.api.ApiApplication No active profile set, falling back to 1 default profile: "default"
+[2023-01-22 19:21:23.397] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-01-22 19:21:23.397] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-01-22 19:21:24.428] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 9080 (http)
+[2023-01-22 19:21:24.438] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-9080"]
+[2023-01-22 19:21:24.438] [INFO ] [restartedMain] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2023-01-22 19:21:24.439] [INFO ] [restartedMain] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/10.1.5]
+[2023-01-22 19:21:24.516] [INFO ] [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2023-01-22 19:21:24.516] [INFO ] [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1118 ms
+[2023-01-22 19:21:24.844] [INFO ] [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+[2023-01-22 19:21:24.854] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-9080"]
+[2023-01-22 19:21:24.873] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 9080 (http) with context path ''
+[2023-01-22 19:21:24.881] [INFO ] [restartedMain] com.springboot.api.ApiApplication Started ApiApplication in 2.09 seconds (process running for 2.738)
+[2023-01-22 19:21:48.076] [INFO ] [http-nio-9080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-01-22 19:21:48.077] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+[2023-01-22 19:21:48.078] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+[2023-01-22 19:22:57.633] [INFO ] [restartedMain] com.springboot.api.ApiApplication Starting ApiApplication using Java 17.0.5 with PID 8620 (C:\Workspace\api\out\production\classes started by SSAFY in C:\Workspace\api)
+[2023-01-22 19:22:57.636] [INFO ] [restartedMain] com.springboot.api.ApiApplication No active profile set, falling back to 1 default profile: "default"
+[2023-01-22 19:22:57.690] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-01-22 19:22:57.690] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-01-22 19:22:58.721] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 9080 (http)
+[2023-01-22 19:22:58.731] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-9080"]
+[2023-01-22 19:22:58.732] [INFO ] [restartedMain] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2023-01-22 19:22:58.732] [INFO ] [restartedMain] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/10.1.5]
+[2023-01-22 19:22:58.814] [INFO ] [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2023-01-22 19:22:58.814] [INFO ] [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1123 ms
+[2023-01-22 19:22:59.165] [INFO ] [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+[2023-01-22 19:22:59.178] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-9080"]
+[2023-01-22 19:22:59.196] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 9080 (http) with context path ''
+[2023-01-22 19:22:59.206] [INFO ] [restartedMain] com.springboot.api.ApiApplication Started ApiApplication in 2.129 seconds (process running for 2.782)
+[2023-01-22 19:23:02.828] [INFO ] [http-nio-9080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-01-22 19:23:02.828] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+[2023-01-22 19:23:02.829] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+[2023-01-22 19:23:26.991] [WARN ] [http-nio-9080-exec-2] org.springframework.web.servlet.PageNotFound No mapping for GET /api/swagger-ui.html
+[2023-01-22 19:24:33.167] [WARN ] [http-nio-9080-exec-9] org.springframework.web.servlet.PageNotFound No mapping for GET /api/v1/get-api
+[2023-01-22 19:24:37.003] [INFO ] [http-nio-9080-exec-10] com.springboot.api.controller.GetController getHello 메서드가 호출되었습니다.
+[2023-01-22 19:27:35.259] [WARN ] [http-nio-9080-exec-3] org.springframework.web.servlet.PageNotFound No mapping for GET /v3/api-docs/swagger-config
+[2023-01-22 19:27:45.955] [WARN ] [http-nio-9080-exec-4] org.springframework.web.servlet.PageNotFound No mapping for GET /v2/api-docs/swagger-config
+[2023-01-22 19:27:50.421] [WARN ] [http-nio-9080-exec-5] org.springframework.web.servlet.PageNotFound No mapping for GET /v1/api-docs/swagger-config
+[2023-01-22 19:27:55.219] [WARN ] [http-nio-9080-exec-6] org.springframework.web.servlet.PageNotFound No mapping for GET /api-docs/swagger-config
+[2023-01-22 19:37:40.303] [INFO ] [restartedMain] com.springboot.api.ApiApplication Starting ApiApplication using Java 17.0.5 with PID 7264 (C:\Workspace\api\out\production\classes started by SSAFY in C:\Workspace\api)
+[2023-01-22 19:37:40.306] [INFO ] [restartedMain] com.springboot.api.ApiApplication No active profile set, falling back to 1 default profile: "default"
+[2023-01-22 19:37:40.359] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-01-22 19:37:40.359] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-01-22 19:37:41.336] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 9080 (http)
+[2023-01-22 19:37:41.345] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-9080"]
+[2023-01-22 19:37:41.345] [INFO ] [restartedMain] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2023-01-22 19:37:41.345] [INFO ] [restartedMain] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/10.1.5]
+[2023-01-22 19:37:41.413] [INFO ] [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2023-01-22 19:37:41.414] [INFO ] [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1053 ms
+[2023-01-22 19:37:41.733] [INFO ] [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+[2023-01-22 19:37:41.742] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-9080"]
+[2023-01-22 19:37:41.759] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 9080 (http) with context path ''
+[2023-01-22 19:37:41.766] [INFO ] [restartedMain] com.springboot.api.ApiApplication Started ApiApplication in 2.037 seconds (process running for 2.774)
+[2023-01-22 19:37:46.958] [INFO ] [http-nio-9080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-01-22 19:37:46.958] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+[2023-01-22 19:37:46.959] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+[2023-01-22 19:37:52.676] [INFO ] [http-nio-9080-exec-2] com.springboot.api.controller.GetController getHello 메서드가 호출되었습니다.
+[2023-01-22 19:37:56.327] [WARN ] [http-nio-9080-exec-3] org.springframework.web.servlet.PageNotFound No mapping for GET /swagger-ui/index.html
+[2023-01-22 19:43:40.773] [INFO ] [restartedMain] com.springboot.api.ApiApplication Starting ApiApplication using Java 17.0.5 with PID 16344 (C:\Workspace\api\out\production\classes started by SSAFY in C:\Workspace\api)
+[2023-01-22 19:43:40.776] [INFO ] [restartedMain] com.springboot.api.ApiApplication No active profile set, falling back to 1 default profile: "default"
+[2023-01-22 19:43:40.833] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-01-22 19:43:40.834] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-01-22 19:43:41.509] [ERROR] [restartedMain] org.springframework.boot.SpringApplication Application run failed
+java.lang.TypeNotPresentException: Type javax.servlet.http.HttpServletRequest not present
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:117)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:125)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.generics.visitor.Reifier.reifyTypeArguments(Reifier.java:68)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:138)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.generics.repository.ClassRepository.computeSuperInterfaces(ClassRepository.java:117)
+	at java.base/sun.reflect.generics.repository.ClassRepository.getSuperInterfaces(ClassRepository.java:95)
+	at java.base/java.lang.Class.getGenericInterfaces(Class.java:1211)
+	at org.springframework.core.ResolvableType.getInterfaces(ResolvableType.java:500)
+	at org.springframework.core.ResolvableType.as(ResolvableType.java:448)
+	at org.springframework.core.ResolvableType.forClass(ResolvableType.java:1048)
+	at org.springframework.plugin.core.config.PluginRegistriesBeanDefinitionRegistrar.getTargetType(PluginRegistriesBeanDefinitionRegistrar.java:101)
+	at org.springframework.plugin.core.config.PluginRegistriesBeanDefinitionRegistrar.registerBeanDefinitions(PluginRegistriesBeanDefinitionRegistrar.java:71)
+	at org.springframework.context.annotation.ImportBeanDefinitionRegistrar.registerBeanDefinitions(ImportBeanDefinitionRegistrar.java:86)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.lambda$loadBeanDefinitionsFromRegistrars$1(ConfigurationClassBeanDefinitionReader.java:373)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsFromRegistrars(ConfigurationClassBeanDefinitionReader.java:372)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForConfigurationClass(ConfigurationClassBeanDefinitionReader.java:148)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitions(ConfigurationClassBeanDefinitionReader.java:120)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:410)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:283)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:344)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:115)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:745)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:565)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291)
+	at com.springboot.api.ApiApplication.main(ApiApplication.java:10)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.ClassNotFoundException: javax.servlet.http.HttpServletRequest
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:114)
+	... 37 common frames omitted
+[2023-01-22 19:43:51.264] [INFO ] [restartedMain] com.springboot.api.ApiApplication Starting ApiApplication using Java 17.0.5 with PID 4972 (C:\Workspace\api\out\production\classes started by SSAFY in C:\Workspace\api)
+[2023-01-22 19:43:51.267] [INFO ] [restartedMain] com.springboot.api.ApiApplication No active profile set, falling back to 1 default profile: "default"
+[2023-01-22 19:43:51.321] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-01-22 19:43:51.321] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-01-22 19:43:51.999] [ERROR] [restartedMain] org.springframework.boot.SpringApplication Application run failed
+java.lang.TypeNotPresentException: Type javax.servlet.http.HttpServletRequest not present
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:117)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:125)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.generics.visitor.Reifier.reifyTypeArguments(Reifier.java:68)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:138)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.generics.repository.ClassRepository.computeSuperInterfaces(ClassRepository.java:117)
+	at java.base/sun.reflect.generics.repository.ClassRepository.getSuperInterfaces(ClassRepository.java:95)
+	at java.base/java.lang.Class.getGenericInterfaces(Class.java:1211)
+	at org.springframework.core.ResolvableType.getInterfaces(ResolvableType.java:500)
+	at org.springframework.core.ResolvableType.as(ResolvableType.java:448)
+	at org.springframework.core.ResolvableType.forClass(ResolvableType.java:1048)
+	at org.springframework.plugin.core.config.PluginRegistriesBeanDefinitionRegistrar.getTargetType(PluginRegistriesBeanDefinitionRegistrar.java:101)
+	at org.springframework.plugin.core.config.PluginRegistriesBeanDefinitionRegistrar.registerBeanDefinitions(PluginRegistriesBeanDefinitionRegistrar.java:71)
+	at org.springframework.context.annotation.ImportBeanDefinitionRegistrar.registerBeanDefinitions(ImportBeanDefinitionRegistrar.java:86)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.lambda$loadBeanDefinitionsFromRegistrars$1(ConfigurationClassBeanDefinitionReader.java:373)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsFromRegistrars(ConfigurationClassBeanDefinitionReader.java:372)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForConfigurationClass(ConfigurationClassBeanDefinitionReader.java:148)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitions(ConfigurationClassBeanDefinitionReader.java:120)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:410)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:283)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:344)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:115)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:745)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:565)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291)
+	at com.springboot.api.ApiApplication.main(ApiApplication.java:10)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.ClassNotFoundException: javax.servlet.http.HttpServletRequest
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:114)
+	... 37 common frames omitted
+[2023-01-22 20:12:26.020] [INFO ] [restartedMain] com.springboot.api.ApiApplication Starting ApiApplication using Java 17.0.5 with PID 13908 (C:\Workspace\api\out\production\classes started by SSAFY in C:\Workspace\api)
+[2023-01-22 20:12:26.023] [INFO ] [restartedMain] com.springboot.api.ApiApplication No active profile set, falling back to 1 default profile: "default"
+[2023-01-22 20:12:26.079] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-01-22 20:12:26.079] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-01-22 20:12:27.124] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 9080 (http)
+[2023-01-22 20:12:27.132] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-9080"]
+[2023-01-22 20:12:27.133] [INFO ] [restartedMain] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2023-01-22 20:12:27.133] [INFO ] [restartedMain] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/10.1.5]
+[2023-01-22 20:12:27.195] [INFO ] [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2023-01-22 20:12:27.195] [INFO ] [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1115 ms
+[2023-01-22 20:12:27.932] [INFO ] [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+[2023-01-22 20:12:27.943] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-9080"]
+[2023-01-22 20:12:27.962] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 9080 (http) with context path ''
+[2023-01-22 20:12:27.972] [INFO ] [restartedMain] com.springboot.api.ApiApplication Started ApiApplication in 2.464 seconds (process running for 3.112)
+[2023-01-22 20:12:44.402] [INFO ] [http-nio-9080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-01-22 20:12:44.403] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+[2023-01-22 20:12:44.404] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+[2023-01-22 20:12:44.967] [INFO ] [http-nio-9080-exec-10] org.springdoc.api.AbstractOpenApiResource Init duration for springdoc-openapi is: 229 ms
+[2023-01-22 20:14:34.230] [INFO ] [restartedMain] com.springboot.api.ApiApplication Starting ApiApplication using Java 17.0.5 with PID 8848 (C:\Workspace\api\out\production\classes started by SSAFY in C:\Workspace\api)
+[2023-01-22 20:14:34.233] [INFO ] [restartedMain] com.springboot.api.ApiApplication No active profile set, falling back to 1 default profile: "default"
+[2023-01-22 20:14:34.287] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-01-22 20:14:34.288] [INFO ] [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-01-22 20:14:35.298] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 9080 (http)
+[2023-01-22 20:14:35.306] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-9080"]
+[2023-01-22 20:14:35.307] [INFO ] [restartedMain] org.apache.catalina.core.StandardService Starting service [Tomcat]
+[2023-01-22 20:14:35.307] [INFO ] [restartedMain] org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/10.1.5]
+[2023-01-22 20:14:35.379] [INFO ] [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+[2023-01-22 20:14:35.380] [INFO ] [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1091 ms
+[2023-01-22 20:14:36.129] [INFO ] [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+[2023-01-22 20:14:36.141] [INFO ] [restartedMain] org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-9080"]
+[2023-01-22 20:14:36.161] [INFO ] [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 9080 (http) with context path ''
+[2023-01-22 20:14:36.168] [INFO ] [restartedMain] com.springboot.api.ApiApplication Started ApiApplication in 2.499 seconds (process running for 3.129)
+[2023-01-22 20:14:45.371] [INFO ] [http-nio-9080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-01-22 20:14:45.371] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+[2023-01-22 20:14:45.372] [INFO ] [http-nio-9080-exec-1] org.springframework.web.servlet.DispatcherServlet Completed initialization in 0 ms
+[2023-01-22 20:14:45.973] [INFO ] [http-nio-9080-exec-4] org.springdoc.api.AbstractOpenApiResource Init duration for springdoc-openapi is: 225 ms
