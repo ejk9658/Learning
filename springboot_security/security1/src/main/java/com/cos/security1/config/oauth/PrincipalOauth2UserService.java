@@ -19,8 +19,8 @@ import java.util.Map;
 @Service
 public class PrincipalOauth2UserService extends DefaultOAuth2UserService {
 
-//    @Autowired
-//    private BCryptPasswordEncoder bCryptPasswordEncoder;
+    @Autowired
+    private BCryptPasswordEncoder bCryptPasswordEncoder;
 
     @Autowired
     private UserRepository userRepository;
@@ -55,7 +55,7 @@ public class PrincipalOauth2UserService extends DefaultOAuth2UserService {
         String provider = oAuth2UserInfo.getProvider();    // google
         String providerId = oAuth2UserInfo.getProviderId();
         String username = provider+"_"+providerId;  // google_102396324034139789583
-//        String password = bCryptPasswordEncoder.encode("딘추");
+        String password = bCryptPasswordEncoder.encode("딘추");
         String email = oAuth2UserInfo.getEmail();
         String role = "ROLE_USER";
 
@@ -65,7 +65,7 @@ public class PrincipalOauth2UserService extends DefaultOAuth2UserService {
             System.out.println("OAuth 로그인이 최초입니다.");
             userEntity = User.builder()
                     .username(username)
-//                    .password(password)
+                    .password(password)
                     .email(email)
                     .role(role)
                     .provider(provider)
