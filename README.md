@@ -20,3 +20,11 @@
 :link:[인프런 강의링크](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0/dashboard)
 :octocat:[GitHub링크](https://github.com/JianChoi-Kor/Login)
 :notebook:[내용정리 Notion](https://www.notion.so/JWT-8e571143dfd649bfaf9e241c90b37374?pvs=4)
+
+<hr>
+
+### springboot_jpa
+
+실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발
+:link:[인프런 강의링크](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-%ED%99%9C%EC%9A%A9-1/dashboard)
+:notebook:[내용정리 Notion](https://www.notion.so/ejk9658/JPA-1-dab5c7df823c4465b1d46b987ae5793d)
